@@ -18,14 +18,18 @@ https://kidney-disease-101803102.herokuapp.com/
 
 # Tech Stack
 
-Python
-Pandas
-Numpy
-Scikit-learn
-Flask
-HTML
-CSS
-Heroku
+A list of technologies used within the project:
+* Python
+* Numpy
+* Pandas
+* Sklearn
+* Flask
+* HTML
+* CSS
+* Heruko
+
+ 
+
 
 # Link to dataset
 
