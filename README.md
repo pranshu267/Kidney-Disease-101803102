@@ -19,14 +19,12 @@ https://kidney-disease-101803102.herokuapp.com/
 # Tech Stack
 
 Python
-Machine Learning
 Pandas
 Numpy
 Scikit-learn
 Flask
 HTML
 CSS
-Vscode
 Heroku
 
 # Link to dataset
